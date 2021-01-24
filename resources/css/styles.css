@@ -1,0 +1,41 @@
+html {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+video {
+    padding: 20px;
+}
+
+.download-text {
+    padding: 50px 0;
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.travel-guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+.phone {
+    padding: 40px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    display: block;
+}
